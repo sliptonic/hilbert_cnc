@@ -5,7 +5,7 @@ hilbertgcode.py is a simplified version that only does the curve.
 hilbertimage.py can do everything gilbergcode.py can do as well as image sampling.
 
 
-
+```
 usage: hilbertimage.py [-h] [-p ITERATIONS] [-s SIZE] [-zmin ZMIN]
                        [-zmax ZMAX] [--laser] [-F FEED] [-i INFILE]
                        [-o OUTFILE]
@@ -25,3 +25,4 @@ optional arguments:
                         image filename to process
   -o OUTFILE, --outfile OUTFILE
                         gcode filename to write
+```
